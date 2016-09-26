@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Polite Fiction</title><link>http://www.shamantidote.tk//index.html</link>
+<description>collected notes</description><language>en</language>
+<lastBuildDate>Mon, 26 Sep 2016 20:20:13 +0000</lastBuildDate>
+<pubDate>Mon, 26 Sep 2016 20:20:13 +0000</pubDate>
+<atom:link href="http://www.shamantidote.tk//feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+inagural test 
+</title><description><![CDATA[
+
+<p>Guess I'm going to have to do some more work to fix up the footer and not write this stuff in <b>html</b>.
+
+
+<!-- text end -->
+]]></description><link>http://www.shamantidote.tk//inagural-test-.html</link>
+<guid>http://www.shamantidote.tk//./inagural-test-.html</guid>
+<dc:creator>fnu lnu</dc:creator>
+<pubDate>Mon, 26 Sep 2016 20:20:09 +0000</pubDate></item>
+</channel></rss>
