@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/egui
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://shamantidote.tk
+  * I am egui (https://keybase.io/egui) on keybase.
+  * I have a public key with fingerprint D30A F31E 57BE CB89 BFE2  CD53 FF69 8C07 1CF9 158D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017f2b607ebc48d2b48e2658676f45bb456ad0beca0388025df5dd959610b6603b0a",
+            "fingerprint": "d30af31e57becb89bfe2cd53ff698c071cf9158d",
+            "host": "keybase.io",
+            "key_id": "ff698c071cf9158d",
+            "kid": "01017f2b607ebc48d2b48e2658676f45bb456ad0beca0388025df5dd959610b6603b0a",
+            "uid": "c76ffbdf0d234336aaef30628c9da419",
+            "username": "egui"
+        },
+        "service": {
+            "hostname": "shamantidote.tk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1475345006,
+    "expire_in": 157680000,
+    "prev": "44c8adaaa8b9d5ef0d9c1a5a72945d1acceda7bca94ba39fc368d5040813bbe8",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIrAnicrVJbSFRBGN41u2gpEhUkQXUgyks65zLnstllqcAgCXrQtMsyc2bOejDP
+2cvZbV1bqIfuJYFFlGZgIBlhkF2sHiqzhIpqISoIsosQWGmCRFRIc8Teemxehvn/
+7/vm+37+vpwpnmzvzK1FpR0DyT7v43snY56qkZ9WI4dt0sD5Grk6OnHRnYRGnUCd
+STgfB3jAK4aAZaBQrEsqEbCkUkGGqqzIhgQxlqCMCMBUR0BUVSBAYkBCNKjJPMCy
+DEQMEFfMGaYVpJFQxLQcJktEgAyRp1BhRKxq2KCCTqBoGLKm6kDhdUPjoUoYsdaO
+ugxmDqMoLTFtVmOPwIS9f+D/s+/YhJzOSAYmBiCCKImijBA1RCALqq4RJPGaC4zS
+iIXqKUPTYMzkUsUcq8RNnbpDdVNMdqO1qB5Zjklsh5Y4dYwaitiOrds7WbPWcUI+
+l+s0hFzwLooDkzIBbFqETZER4jQSNW2L8/EMqTumq8tLChQlCIBczNFEyIzQgOki
+oCKrgB33GxpnkpKkq4gghFSsEUhZJk3nEUSKoEmQ8EjXKUEK1pEmYSRqhi7KKoFA
+AiovYkxVzg0WtmzOJzGbKOhGMoMWcmIRyqV6727L9HizPdOmZrjb5cnOyvu7c+MD
+08cLt/c3+dUT3VzlyvCpZas7uFdL8ofmBm+2tMUrLlxfMNpcVj1yrP1Z7NvVa6dX
+d6WTeZ3p5N1QOP39zdxHex+vilf67VvnPs8YvHwjtWJ53nD3ouc3fdVtBzrfX9m/
+rPXI8YI9A7ltzsaXRv6LB1UZTWNHt8CzX6b3pBNy5uzyk5cePW2uWXzgdWPqdk3P
+nZn7Xlp5wdoS8iFLiOW0fyj5mlOQPBTb0LwjI1M5U/ZudGH/r+/D77vmHTxSUFi4
+MDHrY5O30r+/90n92pQ9e00rPZy4uG5oaf+bJQNFv8+n/fzYs4r2lk0tD5e35q5/
+O+f37h/y0JNP80+V9kTuD5abm8PPR/2tfwAHz0Xm
+=4iN/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/egui
+
+==================================================================
+
